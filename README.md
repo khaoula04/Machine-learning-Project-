@@ -90,6 +90,6 @@ Le SVM et l’arbre de décision donnent également de bons résultats mais font
 
 La régression logistique est compétitive mais génère plus de faux positifs.
 
-À noter
+À noter : 
 Une partie du dataset a été enrichie par des données synthétiques générées via des outils d’intelligence artificielle afin d'augmenter la représentativité de certains profils sous-représentés dans les données originales.
 
